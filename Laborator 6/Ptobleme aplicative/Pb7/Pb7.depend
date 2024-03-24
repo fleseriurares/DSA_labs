@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681998337 source:e:\faculta\sem ii\sda\laborator 6\ptobleme aplicative\pb7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

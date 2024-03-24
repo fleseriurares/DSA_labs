@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684612674 source:e:\faculta\sem ii\sda\laborator 10(11)\2_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

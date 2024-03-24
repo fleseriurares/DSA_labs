@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684493032 source:e:\faculta\sem ii\sda\laborator 12\1_binary_search\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

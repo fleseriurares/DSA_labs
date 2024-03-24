@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684605690 source:e:\faculta\sem ii\sda\laborator greedy\pb_3\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+

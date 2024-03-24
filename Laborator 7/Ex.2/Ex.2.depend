@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1682880545 source:e:\faculta\sem ii\sda\laborator 7\ex.2\queue_stack.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"queue_stack.h"
+
+1682880546 e:\faculta\sem ii\sda\laborator 7\ex.2\queue_stack.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1682886568 source:e:\faculta\sem ii\sda\laborator 7\ex.2\main.c
+	<stdio.h>
+	<stdlib.h>
+
